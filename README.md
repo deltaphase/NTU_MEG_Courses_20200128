@@ -6,12 +6,12 @@
 * 如果已經裝過 mne python，請把本次安裝的套件放在新的環境裡。或者移除舊的 mne 環境，重新安裝
 * 請用終端機的介面來安裝、啟動 mne，不要用 GUI
 * 倘若沒有 python 的基礎也沒關係，講師會在開始操作之前提示大家的注意，以便各位準備錄音或錄影
-
+* 請先發一封 email 至講師的信箱，練習用的資料集 (約) 將從 Google Drive 分享至各位的郵件帳號
 
 安裝步驟如下(電腦需要連上網路)  
 
 1. 請先安裝 Anaconda:https://docs.continuum.io/anaconda/install/  
-2. 下載本專案的資料，並且解壓縮
+2. 下載本專案的檔案，並且解壓縮
 3. 啟動終端機介面。Mac 電腦直接用 terminal。windows 電腦請從「開始」選項中找到 anaconda prompt
 4. (以下都在終端機上操作) 用 cd 切換路徑至第二步驟產生的資料夾裡面
 5. 執行安裝指令：`conda env update --file environment.yml`
