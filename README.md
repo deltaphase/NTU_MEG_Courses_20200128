@@ -19,9 +19,6 @@
 如果使用的是公用電腦，請確定您登入的帳號有修改程式集的權限。
 由於時間限制，上課當天恐怕無法一一為各位檢查安裝與使用上的問題
 
-上課過程中產生的 code 會即時貼在 hackMD 上，供大家剪貼：
-https://hackmd.io/@deltaphase/Bkkm0ETJ_
+上課過程中產生的 code 會即時貼在 [hackMD](https://hackmd.io/@deltaphase/Bkkm0ETJ_) 上，供大家剪貼：
  
-倘若有問題，請利用本堂課程的 slido 提問 (可匿名)
-https://www.sli.do/
-(#26464) 
+倘若有問題，請利用本堂課程的 [slido](https://www.sli.do/) 提問 (#26464) 
