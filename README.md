@@ -21,4 +21,4 @@
 
 上課過程中產生的 code 會即時貼在 [hackMD](https://hackmd.io/@deltaphase/Bkkm0ETJ_) 上，供大家剪貼：
  
-倘若有問題，請利用本堂課程的 [slido](https://www.sli.do/) 提問 (#26464) 
+倘若有問題，請利用本堂課程的 [slido](https://app.sli.do/event/mjxrkymx) 提問 (#26464) 
