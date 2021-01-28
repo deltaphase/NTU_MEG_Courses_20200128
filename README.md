@@ -1,4 +1,4 @@
-# MEG Courses 20200128- MEG 資料格式與前處理
+# MEG Courses 20210128- MEG 資料格式與前處理
 
 需要跟著操作的同學請先自行安裝 MNE Python
 
